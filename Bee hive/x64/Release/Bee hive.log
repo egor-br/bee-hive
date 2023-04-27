@@ -1,0 +1,7 @@
+﻿LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/LTCG"
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+D:\учеба\ООП\Bee hive\Menu.cpp(109): warning C4715: result_button: значение возвращается не при всех путях выполнения
+  All 140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Bee hive.vcxproj -> D:\учеба\ООП\Bee hive\x64\Release\Bee hive.exe
